@@ -25,7 +25,6 @@
   in order to have more relevant information but I started to get more complications and decided to just use the one API.
 
 **Widgets Explanation**
-
     For widgets I included a radio button to have the user select what recommendations they want (music, shows, movies, ect.). I also added a 
     text_input box and slider for the number of recommendations. Tabs, buttons, and a checkbox are used too.
 
